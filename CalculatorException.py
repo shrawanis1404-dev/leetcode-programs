@@ -26,5 +26,6 @@ except ZeroDivisionError:
     print("Division by zero is not allowed")
 except :
     print("something went wrong check and then retry")
+    
 
 
